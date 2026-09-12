@@ -47,9 +47,7 @@ section {
 .icon {
   height: 2rem;
 }
-
-/* ================= HEADER ================= */
-
+/* Header */
 header {
   height: 15vh;
   min-height: 80px;
@@ -83,9 +81,7 @@ header {
   text-decoration: underline;
   text-underline-offset: 0.6rem;
 }
-
-/* Mobile navigation */
-
+/* Mobile Navigation */
 .side-nav {
   display: none;
 }
@@ -127,9 +123,7 @@ header {
 .close-side-nav-btn span:nth-child(2) {
   display: none;
 }
-
-/* ================= HERO ================= */
-
+/* Hero */
 #hero {
   position: relative;
   display: flex;
@@ -222,9 +216,7 @@ header {
 .socials-links-container a:hover {
   transform: translateY(-3px);
 }
-
-/* ================= ABOUT ================= */
-
+/* About */
 #about {
   min-height: 100vh;
   display: flex;
@@ -299,9 +291,7 @@ header {
   line-height: 1.8;
   text-align: left;
 }
-
-/* ================= SKILLS ================= */
-
+/* Skills */
 #skills {
   min-height: 100vh;
   padding: 5rem 0;
@@ -347,9 +337,7 @@ header {
   color: white;
   border-color: #404040;
 }
-
-/* ================= WHAT I BUILD ================= */
-
+/* What I Build */
 #what-i-build {
   min-height: 100vh;
   padding: 5rem 0;
@@ -383,9 +371,7 @@ header {
 .build-card p {
   font-size: 0.9rem;
 }
-
-/* ================= PROJECTS ================= */
-
+/* Projects */
 #projects {
   min-height: 100vh;
   padding: 5rem 0;
@@ -497,9 +483,7 @@ header {
   background-color: transparent;
   color: #888;
 }
-
-/* ================= NETWORKING ================= */
-
+/* Networking */
 #networking {
   min-height: 100vh;
   padding: 5rem 0;
@@ -555,9 +539,7 @@ header {
   color: #666;
   font-size: 0.9rem;
 }
-
-/* ================= EXPERIENCE ================= */
-
+/* Experience */
 #experience {
   min-height: 100vh;
   padding: 5rem 0;
@@ -618,9 +600,7 @@ header {
   font-weight: 500;
   font-size: 0.85rem;
 }
-
-/* ================= CONTACT ================= */
-
+/* Contact */
 #contacts {
   min-height: 80vh;
   padding: 5rem 0;
@@ -661,9 +641,7 @@ header {
 .contact-details a span {
   font-size: 0.9rem;
 }
-
-/* ================= FOOTER ================= */
-
+/* Footer */
 .footer-nav menu {
   display: flex;
   gap: 2rem;
@@ -687,9 +665,7 @@ header {
   margin: 2.5rem auto;
   font-size: 0.8rem;
 }
-
-/* ================= RESPONSIVE ================= */
-
+/* Responsive */
 @media screen and (max-width: 1024px) {
   section {
     width: 85%;
